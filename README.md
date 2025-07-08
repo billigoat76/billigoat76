@@ -2,7 +2,7 @@
 
 ## NAME
 
-**Vaibhav Tanwar** — Full-stack Web Dev, Java DSA Warrior ⚔️ & Codeweight Champion 🥇
+**Vaibhav Tanwar** — Full-stack Web Dev, Java DSA Warrior ⚔️ (this is to be honest has exaggerated now!)
 
 ## SYNOPSIS
 
@@ -15,9 +15,9 @@ and believes `kubectl` is just another love language.
 
 💡 Passionate about clean code, scalable systems, and submitting bugs with clean tap-outs.
 
-🪂 I juggle between DSA and Development like a UFC fighter switching from stand-up to ground game — one day it's trees and graphs, the next day it's Next.js and hydration.
+🪂 I juggle between DSA and Development like a UFC fighter switching from stand-up to ground game — one day it's trees and graphs(ohk not graphs!), the next day it's Next.js and hydration.
 
-When I'm not building slick UIs or API takedowns, I’m probably rolling with Java 8 Streams or training in the monorepo dojo. 🥋
+When I'm not building slick UIs or APIs, I’m probably rolling with Java 8 Streams or training in the monorepo dojo. 🥋
 
 ---
 
