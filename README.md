@@ -2,22 +2,22 @@
 
 ## NAME
 
-**Vaibhav Tanwar** — Full-stack Web Dev & Java DSA Warrior ⚔️
+**Vaibhav Tanwar** — Full-stack Web Dev, Java DSA Warrior ⚔️ & Codeweight Champion 🥇
 
 ## SYNOPSIS
 
-vaibhavtanwar \[ --dev | --dsa | --dockerize | --scale ]
+vaibhavtanwar \[ --dev | --dsa | --dockerize | --scale | --octagon ]
 
 ## DESCRIPTION
 
 A full-stack developer who drinks ☕, writes TypeScript like poetry,
 and believes `kubectl` is just another love language.
 
-💡 Passionate about clean code, scalable systems, and solving problems with just the right balance of brute force and elegance.
+💡 Passionate about clean code, scalable systems, and submitting bugs with clean tap-outs.
 
-🪂 I juggle between DSA and Development like a circus act — one day optimizing graphs, next day debugging React hydration issues. But hey, at least I'm always doing *something*, not nothing. 😄
+🪂 I juggle between DSA and Development like a UFC fighter switching from stand-up to ground game — one day it's trees and graphs, the next day it's Next.js and hydration.
 
-When I'm not building slick UIs or crafting expressive APIs, I'm probably deep in trees and graphs(ohk not graphs!) in Java 🌳.
+When I'm not building slick UIs or API takedowns, I’m probably rolling with Java 8 Streams or training in the monorepo dojo. 🥋
 
 ---
 
@@ -32,42 +32,48 @@ When I'm not building slick UIs or crafting expressive APIs, I'm probably deep i
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 * ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 * 🛠️ `Redux Toolkit`, 📦 `React Query`
-* 🔀 Code Splitting enthusiast — yes, I `React.lazy()` like a pro and love watching my bundle size go down like crypto in 2022
-* 🎒 Familiar with both `Parcel` (the chill one) and `Webpack` (the one that comes with 300 lines of config and a side of anxiety)
-* 🧪 Knows how to test a component like it owes me money: `Jest`, `React Testing Library`, mocking like a Netflix actor
-* 🚨 Uses `coverage` reports just to sleep better at night
-* 💥 Occasionally writes tests that break the code just to make sure the tests actually do something (chaotic good)
+* 🔀 Code Splitting enthusiast — I split bundles like Anderson Silva dodges punches
+* 🎒 Worked with both `Parcel` (the featherweight) and `Webpack` (the heavyweight with complex footwork)
+* 🧪 Writes tests that hit harder than a spinning elbow — `Jest`, `React Testing Library`
+* 💥 Occasionally breaks tests just to toughen them up (grappling with chaos)
 
 #### Backend:
 
-* 🌐 `Node.js`, 🚂 `Express.js` — crafting APIs smoother than your favorite playlist
-* 🔄 RESTful & serverless functions because... why not both?
-* 🧰 Deep understanding of `Middleware`, `JWT`, `Rate Limiting`, and things that sound intimidating but are fun to build
-* 🧩 Worked with monorepos and modular architecture — because I love organized chaos
+* 🌐 `Node.js`, 🚂 `Express.js` — building APIs that are lightweight on latency, heavyweight on functionality
+* 🔄 RESTful & serverless — dual-wielding backends like a champ
+* 🧰 Auth, Middleware, Rate Limiting — backend clinch game is strong
+* 🧩 Monorepo footwork mastered, modular structure strikes perfected
 
 #### Databases:
 
-* 🧾 `SQL`, 🐘 `PostgreSQL`, 🍃 `MongoDB` — my data lives where it belongs, unless I forget the password
+* 🧾 `SQL`, 🐘 `PostgreSQL`, 🍃 `MongoDB` — whatever fits the opponent (er… project)
 
 #### DevOps & Cloud:
 
-* 🐳 `Docker` addict — if it ain't containerized, I ain't shipping it
-* ☸️ `Kubernetes` user — writes `YAML` like ancient scrolls with great power and even greater indentation rage
-* ☁️ Deploying apps on AWS with `EC2`, `Lambda`, `S3`, and screaming at IAM policies like a true engineer
-* 📈 Monitors logs, metrics, and once in a while, his own mental stability
+* 🐳 Dockerized every move — no code enters the ring unwrapped
+* ☸️ YAML grappling skills certified with Kubernetes
+* ☁️ AWS-trained — EC2 ground control, Lambda submission specialists, S3 for all your post-fight footage
+* 📊 Logs, metrics, alerts — trained to avoid getting knocked out by runtime surprises
 
+---
 
-SUPPORTED EXTENSIONS
+## SUPPORTED EXTENSIONS
 
-*.sh  *.js  *.ts  *.tsx  
-*.mjs  *.cjs  *.java 
+```bash
+*.jsx *.js  *.ts  *.tsx  
+*.mjs  *.cjs  *.java  
+```
 
-THE WRAP-UP
+---
 
-If you've made it this far, congrats! You're either genuinely interested or just here for the vibes — either way, I salute you. 👨‍💻
+## THE WRAP-UP
+
+If you’ve made it this far, you deserve a title belt 🏆.
+
+This README now packs more punches than a UFC lightweight champ on fight night. 💥 Whether I'm choking out bugs like Khabib in the backend or throwing front-end kicks faster than Adesanya, I'm always in the octagon of code.
 
 Whether it’s slaying bugs, taming Kubernetes, or arguing with a stubborn test case that “works on my machine” — I’m always up for the next tech adventure.
 
-So if you're hiring, collaborating, or just want to discuss why tabs > spaces (or vice versa), let’s connect!
+So if you're hiring, collaborating, or just want to talk DSA footwork and DevOps clinch game — let’s connect!
 
-May your builds never fail, and your console.logs be forever useful. 🙌
+> May your builds never fail, your Docker containers always run, and your `console.logs` be forever useful. 🥋🥊🙌
